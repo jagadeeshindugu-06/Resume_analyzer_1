@@ -1,0 +1,5 @@
+{
+  "name": "Resume Skill Gap Analyzer",
+  "description": "Analyze your resume against job descriptions to find skill gaps and get learning recommendations.",
+  "requestFramePermissions": []
+}
